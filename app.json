@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "camera-expo-validate",
+    "slug": "camera-expo-validate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "camera-expo-validate"
+}
